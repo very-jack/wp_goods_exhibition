@@ -1,0 +1,2 @@
+# goods_exhibition
+一个优雅展示产品的WordPress插件，通过短代码[goods_exhibition_page]调用
